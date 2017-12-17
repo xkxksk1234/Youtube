@@ -1,6 +1,6 @@
 <h1>Maemong Youtube</h1>
 <p>Link : <a href="https://www.youtube.com/channel/UCxNRTF3pzX2HEAtnY-gI4cA">Maemong Youtube</a></p>
-<h1>GitHub 사용법</h1>
+<h1>사용법</h1>
 <p>1. 오른쪽 상단 Clone or download를 누른 후 Download Zip을 클릭하여 프로젝트를 다운로드 하세요.</p>
 <p>2. 압축 파일을 풀면 프로젝트가 있습니다.</p>
 <p>3. Spigot은 <a href="https://yivesmirror.com/downloads/spigot">Yive's Mirror</a>에서 다운로드 받으세요.</p>
