@@ -1,0 +1,11 @@
+name: Youtube
+version: 1.0
+main: com.maemong.youtube.Main
+
+commands:
+  warp:
+    description: "warp command"
+  setwarp:
+    description: "set warp command"
+  delwarp:
+    description: "remove warp command"
