@@ -9,3 +9,7 @@ commands:
     description: "set warp command"
   delwarp:
     description: "remove warp command"
+  gui:
+    description: "open gui command"
+  addgui:
+    description: "add gui item command"
